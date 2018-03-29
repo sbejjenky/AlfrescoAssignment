@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>permission</shortname>
+  <description>permission</description>
+   <url>/permission/permission?username={searchTerm}&amp;noderef={nodeRef}</url>
+   <format default="html">extension</format>
+   <authentication>user</authentication>
+   <transaction>required</transaction>
+</webscript>
